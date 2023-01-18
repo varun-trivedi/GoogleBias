@@ -1,0 +1,15 @@
+qcid,query,city,rbo
+1,covid rules,"New Delhi,Delhi,India",1.00000
+2,covid rules,"Chandigarh,Chandigarh,India",0.36675
+3,covid rules,"Shimla,Himachal Pradesh,India",0.29978
+4,covid rules,"Mumbai,Maharashtra,India",0.40891
+5,covid rules,"Chennai,Tamil Nadu,India",0.42478
+6,covid rules,"Lucknow,Uttar Pradesh,India",0.42478
+7,covid rules,"Kolkata,West Bengal,India",0.34052
+8,legal driving age,"New Delhi,Delhi,India",1.00000
+9,legal driving age,"Chandigarh,Chandigarh,India",1.00000
+10,legal driving age,"Shimla,Himachal Pradesh,India",1.00000
+11,legal driving age,"Mumbai,Maharashtra,India",1.00000
+12,legal driving age,"Chennai,Tamil Nadu,India",1.00000
+13,legal driving age,"Lucknow,Uttar Pradesh,India",1.00000
+14,legal driving age,"Kolkata,West Bengal,India",1.00000
